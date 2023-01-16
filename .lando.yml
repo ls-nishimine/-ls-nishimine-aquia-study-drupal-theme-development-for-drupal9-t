@@ -2,7 +2,7 @@ name: my-drupal9-app
 recipe: drupal9
 config:
   webroot: web
-  xdebug: debug
+  xdebug: false
   config:
     php: .vscode/php.ini
 env_file:

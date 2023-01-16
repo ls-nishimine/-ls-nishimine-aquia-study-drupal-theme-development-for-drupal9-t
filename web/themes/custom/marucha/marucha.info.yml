@@ -1,0 +1,8 @@
+name: Marucha
+type: theme
+description: 'まる茶のためのカスタムテーマ'
+core_version_requirement: ^8 || ^9
+base theme: false
+libraries:
+  - marucha/global-styling
+  - marucha/global-scripts
