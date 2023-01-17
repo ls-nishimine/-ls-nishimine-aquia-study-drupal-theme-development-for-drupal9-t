@@ -1,0 +1,6 @@
+global-styling:
+  version: 1.x
+  css:
+    # SMACSSの5つ分類の theme を指す。
+    theme:
+      css/style.css: {}

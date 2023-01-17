@@ -6,3 +6,7 @@ base theme: false
 libraries:
   - marucha/global-styling
   - marucha/global-scripts
+regions:
+  my_header: 'My Header'
+  my_contents: 'My Content'
+  my_footer: 'My Footer'
