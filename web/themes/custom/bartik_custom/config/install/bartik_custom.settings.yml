@@ -1,0 +1,3 @@
+logo:
+  use_defalut: false # themeのロゴは使用しない。
+twitter_url: 'https://twitter.com/' # Twitterのデフォルト値
