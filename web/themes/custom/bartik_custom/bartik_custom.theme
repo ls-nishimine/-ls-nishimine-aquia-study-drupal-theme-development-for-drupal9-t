@@ -1,0 +1,6 @@
+<?php
+function bartik_custom_preprocess_node(&$variables) {
+  $variables['hoge'] = 'fuga';
+}
+
+
